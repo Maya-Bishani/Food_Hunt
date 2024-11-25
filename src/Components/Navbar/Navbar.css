@@ -1,0 +1,17 @@
+.MB-title{
+    font-size: 1.125rem;
+    font-weight: 500;
+    color:  #333333 !important;}
+
+.nav-link  {
+        font-weight: 400;
+    font-size: 0.875rem;
+    color: #333333 !important;
+    margin: 0 4%;
+    }
+    .bar{
+        height: max-content;
+        background: none !important;
+        background: transparent;
+    }
+    
